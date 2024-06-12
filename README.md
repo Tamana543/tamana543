@@ -2,9 +2,8 @@
 <h1 align="center">Hello ,I am  Tamana Farzami</h1>
 
 
-## 
-About Me
-My name is Tamana Faryami, and I have been working in the field of programming and website development for long time😉.
+## About Me
+My name is Tamana Farzami, and I have been working in the field of programming and website development for long time😉.
 As a  website developer, I'm on a mission to bring creativity to life through code,whether it's crafting responsive layouts, diving into JavaScript functionality, or exploring the latest design trends.
 
 
