@@ -9,6 +9,8 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 
 - 📫 How to reach me tamanafarzami33@gmail.com
 
+[![Tamana543's GitHub | Stats](https://stats.quira.sh/Tamana543/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Tamana543)
+
 ## Skills
 <p align="center">
   <a href="https://skillicons.dev">
