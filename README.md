@@ -30,7 +30,7 @@ I'm always open to new challenges and opportunities to grow. Let's connect and c
 ## Connect with 
 -Email: [tamanafarzami33@gmail.com](mailto:tamanafarzami33@gmail.com)
 - Telegram: [@tamana_farzami](https://t.me/tamana_farzami)
-- Linkdin: [tamana-farzami](http://www.linkedin.com/in/tamana-farzami-)
+
 </div>
 <br>
 
