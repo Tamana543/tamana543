@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img src="https://i.ibb.co/d7NtMTM/Hello-I-am-Tamana-Farzami-2.gif" alt="Hello-I-am-Tamana-Farzami-2" border="0" align="center">
 
+<h1 align="center">Hello I am Tamana Farzami</h1>
 
 
 
