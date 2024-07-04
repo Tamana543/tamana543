@@ -1,6 +1,6 @@
 ### Hi there 👋
-
-<h1 align="center">Hello I am Tamana Farzami</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=435&lines=Happy+To+See+You+Again+😉)](https://git.io/typing-svg)
+<h1 align="center">Hello, I am Tamana Farzami</h1>
 
 
 
@@ -11,7 +11,12 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 
 - 📫 How to reach me tamanafarzami33@gmail.com
 
-[![Tamana543's GitHub | Stats](https://stats.quira.sh/Tamana543/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=Tamana543)
+
+
+<div align="center">
+<a href="https://quira.sh?utm_source=widgets&utm_campaign=Tamana543" ><img src="https://stats.quira.sh/Tamana543/github?theme=dark" /></a>
+  </div>
+
 
 ## Skills
 <p align="center">
