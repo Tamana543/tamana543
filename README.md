@@ -17,6 +17,12 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=Tamana543" ><img src="https://stats.quira.sh/Tamana543/github?theme=dark" /></a>
   </div>
 
+  ## Quote
+
+
+
+![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=2f3640&border_radius=20&author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~)
+
 
 ## Skills
 <p align="center">
