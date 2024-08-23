@@ -53,3 +53,5 @@ I'm always open to new challenges and opportunities to grow. Let's connect and c
 </a>
 </div>
 
+
+![gitartwork](gitartwork.svg)
