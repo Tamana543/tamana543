@@ -55,3 +55,4 @@ I'm always open to new challenges and opportunities to grow. Let's connect and c
 
 
 ![gitartwork](gitartwork.svg)
+![snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
