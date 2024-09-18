@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=435&lines=Happy+To+See+You+Again+😉)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=435&lines=Happy+To+See+You+Again+😄)](https://git.io/typing-svg)
 <h1 align="center">Hello, I am Tamana Farzami</h1>
 
 
@@ -9,7 +9,7 @@ My name is Tamana Farzami, and I have been working in the field of programming a
 As a  website developer, I'm on a mission to bring creativity to life through code,whether it's crafting responsive layouts, diving into JavaScript functionality, or exploring the latest design trends.
 
 
-- 📫 How to reach me tamanafarzami33@gmail.com
+- 📫 How to reach me [📨](mailto:tamanafarzami33@gmail.com)
 
 
 
