@@ -1,13 +1,15 @@
 ### Hi there 👋
 <h1 align="center">Hello, I am Tamana Farzami</h1>
 
+ <div align="center">
+<a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:)" /></a>
+  </div>
+  
 <div align="center">
 <a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=900&lines=Happy+To+See+You+Again+😄" /></a>
 </div>
 
-  <div align="center">
-<a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:)" /></a>
-  </div>
+ 
   
 ## About Me
 My name is Tamana Farzami, and I have been working in the field of programming and website development for long time😉.
