@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello  👋
 <h1 align="center">Hello, I am Tamana Farzami</h1>
 
  <div align="center">
