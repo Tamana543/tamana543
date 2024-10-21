@@ -56,16 +56,11 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 <hr/>
 <div>
   
-I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
-## Connect with 
 
-  <a href="mailto:tamanafarzami33@gmail.com">
- <img src="https://cdn.iconscout.com/icon/free/png-512/free-email-icon-download-in-svg-png-gif-file-formats--mail-heart-love-letter-usefull-objects-pack-business-icons-38075.png?f=webp&w=50">
-  </a>
-  
- <a href="www.linkedin.com/in/tamana-farzami-">
-  <img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-789838.png?f=webp&w=50">
-  </a>
+## Connect with 
+I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
+
+  <a href="mailto:tamanafarzami33@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/free-email-icon-download-in-svg-png-gif-file-formats--mail-heart-love-letter-usefull-objects-pack-business-icons-38075.png?f=webp&w=50"></a> <a href="https://af.linkedin.com/in/tamana-farzami-"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-789838.png?f=webp&w=50"></a>
 
 
 </div>
