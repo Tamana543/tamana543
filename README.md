@@ -46,14 +46,14 @@ As a  website developer, I'm on a mission to bring creativity to life through co
  
 <br>
 
-<hr/>
-
+##
 <div align="center">
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tamana543&theme=highcontrast&border_radius=5.2&card_width=500&hide_total_contributions=true" alt="GitHub Streak" /></a>
   
 </div>
 
-<hr/>
+
+
 <div>
   
 
