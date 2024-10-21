@@ -27,9 +27,8 @@ As a  website developer, I'm on a mission to bring creativity to life through co
   ## Quote
 
 <div align="center">
-<a href="https://readme-daily-quotes.vercel.app/api" ><img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=2f3640&border_radius=20&author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~" /></a>
+<a href="https://readme-daily-quotes.vercel.app/api" ><img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=F6A3F3&border_radius=20&author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~" /></a>
   </div>
-
 
 
 
@@ -48,7 +47,7 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 
 ##
 <div align="center">
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tamana543&theme=highcontrast&border_radius=5.2&card_width=500&hide_total_contributions=true" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Tamana543&theme=dark&border_radius=5.2&card_width=500&hide_total_contributions=true" alt="GitHub Streak" /></a>
   
 </div>
 
