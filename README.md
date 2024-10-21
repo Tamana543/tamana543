@@ -46,12 +46,20 @@ As a  website developer, I'm on a mission to bring creativity to life through co
  
 <br>
 
+<hr/>
+
+<div align="center">
+ <img src="https://streak-stats.demolab.com/?user=Tamana543"/>
+  
+</div>
+
+<hr/>
 <div>
   
 I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
 ## Connect with 
--Email: [tamanafarzami33@gmail.com](mailto:tamanafarzami33@gmail.com)
-- Telegram: [@tamana_farzami](https://t.me/tamana_farzami)
+- Email: [tamanafarzami33@gmail.com](mailto:tamanafarzami33@gmail.com)
+- LinkedIn: [Tamana_Farzami](www.linkedin.com/in/tamana-farzami-)
 
 </div>
 <br>
@@ -60,6 +68,8 @@ I'm always open to new challenges and opportunities to grow. Let's connect and c
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Tamana543&label=Profile%20Views&color=11&icon=4&pretty=true" />
 </a>
+
+
 </div>
 
 
