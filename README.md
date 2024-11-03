@@ -27,8 +27,9 @@ As a  website developer, I'm on a mission to bring creativity to life through co
   ## Quote
 
 <div align="center">
-<a href="https://readme-daily-quotes.vercel.app/api" ><img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=F6A3F3&border_radius=20&author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~" /></a>
+<a href="https://readme-daily-quotes.vercel.app/api" ><img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=EDEADE&border_radius=20&author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~" /></a>
   </div>
+
 
 
 
