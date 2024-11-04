@@ -60,7 +60,7 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 ## Connect with 
 I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
 
-  <a href="mailto:tamanafarzami33@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/free-email-icon-download-in-svg-png-gif-file-formats--mail-heart-love-letter-usefull-objects-pack-business-icons-38075.png?f=webp&w=50"></a> <a href="https://af.linkedin.com/in/tamana-farzami-"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-789838.png?f=webp&w=50"></a>
+  <a href="mailto:tamanafarzami33@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/free-email-icon-download-in-svg-png-gif-file-formats--mail-heart-love-letter-usefull-objects-pack-business-icons-38075.png?f=webp&w=50"></a> <a href="https://af.linkedin.com/in/tamana-farzami-"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-789838.png?f=webp&w=50"></a><a href="https://www.reddit.com/user/Tamana_Farzami/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://cdn.iconscout.com/icon/free/png-512/free-reddit-logo-icon-download-in-svg-png-gif-file-formats--brand-company-brands-pack-logos-icons-2284905.png?f=webp&w=50"></a>
 
 
 </div>
