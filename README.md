@@ -27,7 +27,11 @@ As a  website developer, I'm on a mission to bring creativity to life through co
   ## Quote
 
 <div align="center">
-<a href="https://readme-daily-quotes.vercel.app/api" ><img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=EDEADE&border_radius=20&author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~" /></a>
+<a href="https://readme-daily-quotes.vercel.app/api" ><img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=EDEADE&border_radius=20" /></a>
+ <!--"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
+- Linus Torvalds
+ &author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~
+ -->
   </div>
 
 
