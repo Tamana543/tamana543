@@ -64,13 +64,13 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 ## Connect with 
 I'm always open to new challenges and opportunities to grow. Let's connect and create something amazing together!
 
-  <a href="mailto:tamanafarzami33@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/free-email-icon-download-in-svg-png-gif-file-formats--mail-heart-love-letter-usefull-objects-pack-business-icons-38075.png?f=webp&w=50"></a> <a href="https://af.linkedin.com/in/tamana-farzami-"><img src="https://cdn.iconscout.com/icon/free/png-512/free-linkedin-logo-icon-download-in-svg-png-gif-file-formats--social-media-pack-logos-icons-789838.png?f=webp&w=50"></a><a href="https://www.reddit.com/user/Tamana_Farzami/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://cdn.iconscout.com/icon/free/png-512/free-reddit-logo-icon-download-in-svg-png-gif-file-formats--brand-company-brands-pack-logos-icons-2284905.png?f=webp&w=50"></a>
+  <a href="mailto:tamanafarzami33@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Email_icon-black.svg"   width="60" alt="The Email icon"></a> <a href="https://af.linkedin.com/in/tamana-farzami-"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg"  width="60" alt="The Linkedin icon" ></a>  <a href="https://www.reddit.com/user/Tamana_Farzami/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://cdn.iconscout.com/icon/free/png-512/free-reddit-logo-icon-download-in-svg-png-gif-file-formats--brand-company-brands-pack-logos-icons-2284905.png?f=webp&w=55"></a> <a href="https://stackoverflow.com/users/23857966/tamana-farzami?tab=summary"><img  width="80" alt="The official Stack Overflow icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036"></a>
 
 
 </div>
 <br>
 
-<div>
+ <div>
   <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=Tamana543&label=Profile%20Views&color=11&icon=4&pretty=true" />
 </a>
@@ -78,6 +78,6 @@ I'm always open to new challenges and opportunities to grow. Let's connect and c
 
 </div>
 
-
-<!---->[gitartwork](gitartwork.svg)
+<!--https://stackoverflow.com/users/23857966/tamana-farzami?tab=summary-->
+<!--[gitartwork](gitartwork.svg)-->
 ![snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
