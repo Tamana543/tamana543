@@ -70,13 +70,6 @@ I'm always open to new challenges and opportunities to grow. Let's connect and c
 </div>
 <br>
 
- <div>
-  <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Tamana543&label=Profile%20Views&color=11&icon=4&pretty=true" />
-</a>
-
-
-</div>
 
 <!--https://stackoverflow.com/users/23857966/tamana-farzami?tab=summary-->
 <!--[gitartwork](gitartwork.svg)-->
