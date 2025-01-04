@@ -38,12 +38,21 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 
 
 ## Skills
+<!--
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,git,github,bootstrap,photoshop,illustrator,figma,canva" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,git,github,bootstrap,photoshop,illustrator,figma,codepen" />
+   <!--foundation,canva, find a repo contains all of these -->
+  <!--</a>
+</p>-->
+
+<p align="center">
+  <a href="https://go-skill-icons.vercel.app/">
+    <img
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,javascript,git,github,bootstrap,photoshop,illustrator,figma,codepen,canva"
+    />
   </a>
 </p>
-
 <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamana543&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tamana543" />
 </div>
