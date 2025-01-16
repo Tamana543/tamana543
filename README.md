@@ -1,7 +1,7 @@
 ### Hello  👋
 <h1 align="center">Hello, I am Tamana Farzami</h1>
 
- <div align="center">
+ <div align="center" background="black">
 <a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:)" /></a>
   </div>
   
