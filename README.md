@@ -101,9 +101,10 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 
 </div>
 <br>
-<div align="center">
+<!--<div align="center">
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true"  /> 
-</div>
+</div>-->
+
 
 <!--https://stackoverflow.com/users/23857966/tamana-farzami?tab=summary-->
 <!--[gitartwork](gitartwork.svg)-->
