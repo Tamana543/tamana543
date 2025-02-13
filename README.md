@@ -9,7 +9,6 @@
   
 <div align="center">
 <a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=900&lines=Happy+To+See+You+Again+😄" /></a>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 </div>
 
  
@@ -17,6 +16,7 @@
 ## About Me
 My name is Tamana Farzami, and I have been working in the field of programming and website development for long time  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>. 
 As a  website developer, I'm on a mission to bring creativity to life through code,whether it's crafting responsive layouts, diving into JavaScript functionality, or exploring the latest design trends.
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 
 - 📫 How to reach me [📨](mailto:tamanafarzami33@gmail.com)
