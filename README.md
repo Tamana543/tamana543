@@ -6,10 +6,8 @@
  <div align="center" >
 <a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:)" /></a>
   </div>
-  
-<div align="center">
-<a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=900&lines=Happy+To+See+You+Again+😄" /></a>
-</div>
+ 
+
 
  
   
@@ -22,11 +20,11 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 - 📫 How to reach me [📨](mailto:tamanafarzami33@gmail.com)
 
 
-
+<!--
 <div align="center">
 <a href="https://quira.sh?utm_source=widgets&utm_campaign=Tamana543" ><img src="https://stats.quira.sh/Tamana543/github?theme=dark" /></a>
   </div>
-
+-->
   ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Quote
 
 <div align="center">
@@ -53,7 +51,7 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,javascript,git,github,bootstrap,photoshop,illustrator,figma,codepen,canva"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,javascript,git,github,bootstrap,photoshop,illustrator,figma,codepen,canva,react"
     />
   </a>
 </p>
