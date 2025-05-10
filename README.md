@@ -51,7 +51,7 @@ As a  website developer, I'm on a mission to bring creativity to life through co
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,css,sass,tailwind,javascript,git,github,bootstrap,photoshop,illustrator,figma,codepen,canva,react"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,codepen,css,sass,tailwind,bootstrap,canva,javascript,react,git,github,photoshop,illustrator,figma"
     />
   </a>
 </p>
