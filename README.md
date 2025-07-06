@@ -12,8 +12,8 @@
  
   
 ## About Me
-My name is Tamana Farzami, and I have been working in the field of programming and website development for long time  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>. 
-As a  website developer, I'm on a mission to bring creativity to life through code,whether it's crafting responsive layouts, diving into JavaScript functionality, or exploring the latest design trends.
+Hi, I’m Tamana — the creative mind behind ReginaJS <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>.
+I’m a passionate front-end developer and JavaScript enthusiast dedicated to crafting clean, elegant, and efficient code. ReginaJS is more than a name; it’s my personal mission to reign with skill, creativity, and leadership in the JavaScript world. 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='100'>
 
 
