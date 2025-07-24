@@ -4,7 +4,7 @@
 
 
  <div align="center" >
-<a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=100&color=F0E7FF&center=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:);Code,+Eat,+Repeat,+Sleep+o_o" /></a>
+<a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=100&color=F0E7FF&center=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:);Code,+Eat,+Sleep+o_o,+(Repeat)" /></a>
 
  
   
