@@ -4,13 +4,14 @@
 
 
  <div align="center" >
-<a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=1000&color=F0E7FF&center=true&multiline=true&random=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:)" /></a>
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Making+bugs+disappear+(mostly)!;Code,+Eat,+Repeat,+Sleep;Is+there+any+project+in+your+mind+,+find+me+here;make+things+that+make+life+easy!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="">
-</p>
-  </div>
- 
+<a href="https://github.com/Tamana543" ><img src="https://readme-typing-svg.demolab.com?font=Bitter&weight=500&size=25&duration=4999&pause=100&color=F0E7FF&center=true&width=1000&lines=Is+there+any+project+in+your+mind+,+find+me+here+:);Code,+Eat,+Repeat,+Sleep+o_o" /></a>
 
+ 
+  
+ </div>
+<div>
+ 
+</div>
 
  
   
