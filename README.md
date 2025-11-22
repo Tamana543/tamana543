@@ -110,7 +110,13 @@ I’m a passionate front-end developer and JavaScript enthusiast dedicated to cr
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true"  /> 
 </div>-->
 
+ ## 💰 You can help me by Donating
+ [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/buymeacoffee.com/tamana543) 
 
+ <!--
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/buymeacoffee.com/tamana543) 
+ [![BuyMeACoffee](https://raw.githubusercontent.com/pachadotdev/buymeacoffee-badges/main/bmc-black.svg)](https://www.buymeacoffee.com/pacha)
+  --!>
 <!--https://stackoverflow.com/users/23857966/tamana-farzami?tab=summary-->
 <!--[gitartwork](gitartwork.svg)-->
 <!-- ![snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)-->
