@@ -78,9 +78,9 @@ I’m a passionate front-end developer and JavaScript enthusiast dedicated to cr
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=canva&logoColor=white" />
 </p>
 -->
-<div align="center">
+<!-- <div align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Tamana543&show_icons=true&theme=dark&locale=en&layout=compact" alt="Tamana543" />
-</div>
+</div> -->
  
 <br>
 
@@ -100,9 +100,10 @@ I’m a passionate front-end developer and JavaScript enthusiast dedicated to cr
 
 
 
-  <a href="mailto:tamanafarzami33@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Email_icon-black.svg"   width="50" alt="The Email icon"></a> <a href="https://t.me/tamana_farzami"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  width="50" alt="The telegram icon" ></a>  <a href="https://www.reddit.com/user/Tamana_Farzami/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://cdn.iconscout.com/icon/free/png-512/free-reddit-logo-icon-download-in-svg-png-gif-file-formats--brand-company-brands-pack-logos-icons-2284905.png?f=webp&w=55"></a> <a href="https://stackoverflow.com/users/23857966/tamana-farzami?tab=summary"><img  width="70" alt="The official Stack Overflow icon" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Stack_Overflow_icon.svg/512px-Stack_Overflow_icon.svg.png?20190716190036"></a><a href="https://discordapp.com/users/1367338890767237161"><img src="https://darkanddarker.wiki.spellsandguns.com/images/1/15/Discord_logo.webp"  width="50" alt="The Discord icon"></a></a>
+  <a href="mailto:tamanafarzami33@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Email_icon-black.svg"   width="50" alt="The Email icon"></a> <a href="https://t.me/tamana_farzami"><img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"  width="50" alt="The telegram icon" ></a>  <a href="https://www.reddit.com/user/Tamana_Farzami/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button"><img src="https://cdn.iconscout.com/icon/free/png-512/free-reddit-logo-icon-download-in-svg-png-gif-file-formats--brand-company-brands-pack-logos-icons-2284905.png?f=webp&w=55"></a> <a href="https://stackoverflow.com/users/23857966/tamana-farzami?tab=summary"> <img src="https://skillicons.dev/icons?i=stackoverflow" /></a><a href="https://discordapp.com/users/1367338890767237161"><img src="https://darkanddarker.wiki.spellsandguns.com/images/1/15/Discord_logo.webp"  width="50" alt="The Discord icon"></a></a>
 
 
+<!-- <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/medium/colored/reddit.svg"/> -->
 
 </div>
 <br>
