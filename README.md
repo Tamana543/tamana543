@@ -55,7 +55,7 @@ I’m a passionate front-end developer and JavaScript enthusiast dedicated to cr
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
     <img
-      src="https://go-skill-icons.vercel.app/api/icons?i=html,codepen,css,sass,tailwind,bootstrap,canva,figma,javascript,react,git,github,photoshop,illustrator"
+      src="https://go-skill-icons.vercel.app/api/icons?i=html,codepen,css,sass,tailwind,bootstrap,canva,figma,javascript,react,nodejs,mongodb,git,github,styledcomponents,photoshop,illustrator"
     />
   </a>
 </p>
