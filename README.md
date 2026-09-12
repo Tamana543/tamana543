@@ -116,9 +116,13 @@ I’m a passionate front-end developer and JavaScript enthusiast dedicated to cr
 
 </div>
 <br>
-<!--<div align="center">
+<!-- <div align="center">
+  <img src="https://githubusercontent.com" alt="Pixel Art Dog and Butterfly" width="100%">
+</div> -->
+
+<!-- <div align="center">
 <img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true"  /> 
-</div>-->
+</div> -->
 
  ## 💰 You can help me by Donating
  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/buymeacoffee.com/tamana543) 
