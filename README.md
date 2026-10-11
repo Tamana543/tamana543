@@ -24,19 +24,12 @@ I’m a passionate front-end developer and JavaScript enthusiast dedicated to cr
 - 📫 How to reach me [📨](mailto:tamanafarzami33@gmail.com)
 
 
-<!--
-<div align="center">
-<a href="https://quira.sh?utm_source=widgets&utm_campaign=Tamana543" ><img src="https://stats.quira.sh/Tamana543/github?theme=dark" /></a>
-  </div>
--->
+
   ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> Quote
 
 <div align="center">
 <a href="https://readme-daily-quotes.vercel.app/api" ><img src="https://readme-daily-quotes.vercel.app/api?theme=dark&font=courier_new&border_color=EDEADE&border_radius=20" /></a>
- <!--"Most good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program."
-- Linus Torvalds
- &author=Tamana+Farzami&quote=Happiness+emanates+from+the+mind+and+sits+in+the+heart...+^_~
- -->
+
   </div>
 
 
@@ -44,13 +37,7 @@ I’m a passionate front-end developer and JavaScript enthusiast dedicated to cr
 
 ## Skills <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 <h3>Things I code with</h3>
-<!--
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,javascript,git,github,bootstrap,photoshop,illustrator,figma,codepen" />
-   <!--foundation,canva, find a repo contains all of these -->
-  <!--</a>
-</p>-->
+
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
