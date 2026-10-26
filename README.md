@@ -103,16 +103,10 @@ I’m a passionate  developer and JavaScript enthusiast dedicated to crafting cl
 
 </div>
 <br>
-<!-- <div align="center">
-  <img src="https://githubusercontent.com" alt="Pixel Art Dog and Butterfly" width="100%">
-</div> -->
 
-<!-- <div align="center">
-<img src="https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true"  /> 
-</div> -->
-<!-- <div align="center">
-<img src="https://camo.githubusercontent.com/68a0cc3a0e5e12f5e57c4e6719efe20d9d235cb1ff66478c91513b764313122c/68747470733a2f2f632e74656e6f722e636f6d2f534f564d53586d5742316b41414141692f746f6e792d737461722d6a756d70696e672e676966"  /> 
-</div> -->
+
+<!--[![Tamana's github activity graph](https://vercel.app)](https://github.com/Ashutosh00710/github-readme-activity-graph) // an comment this later -->
+
 
  ## 💰 You can help me by Donating
  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/buymeacoffee.com/tamana543) 
