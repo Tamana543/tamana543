@@ -107,6 +107,8 @@ I’m a passionate  developer and JavaScript enthusiast dedicated to crafting cl
 
 <!--[![Tamana's github activity graph](https://vercel.app)](https://github.com/Ashutosh00710/github-readme-activity-graph) // an comment this later -->
 
+<img src="https://user-images.githubusercontent.com/74038190/212744287-14f66c13-5458-40dc-9244-8ff533fc8f4a.gif" width="400">
+  <br><br>
 
  ## 💰 You can help me by Donating
  [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://buymeacoffee.com/buymeacoffee.com/tamana543) 
